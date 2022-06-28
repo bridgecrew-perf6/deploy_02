@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>it.triexercise</groupId>
 	<artifactId>deploy_02</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.6</version>
 	<name>deploy_02</name>
 	<description>Deploy 02 exercise</description>
 	<properties>
